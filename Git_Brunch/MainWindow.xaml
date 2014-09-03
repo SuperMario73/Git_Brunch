@@ -1,0 +1,9 @@
+﻿<Window x:Class="Git_Brunch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,-8,-20">
+        <Image Source="index.jpg" Margin="0,0,212,10"/>
+
+    </Grid>
+</Window>
